@@ -1,0 +1,9 @@
+form#join label{
+	float: left;
+	width: 140px;
+	height: 20px;
+	margin-right: 5px;
+	padding-left: 5px;
+	background-color: #eee;
+	
+}
